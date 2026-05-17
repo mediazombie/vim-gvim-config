@@ -1,2 +1,2 @@
 # vim-gvim-config
-My little Vim (gVim) config file. I used this one for an online Vim course. So the config file has only some minor adjustment and only some plugins. The config file is optimized to work for gVim on Windows, but it also can be used on linux and MacOS with some little changes.
+My little Vim (gVim) config file. I used this one for an online Vim course. So the config file has only some minor adjustment and only some plugins. The config file is optimized to work for gVim on Windows, but it also can be used on linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
