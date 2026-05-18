@@ -119,6 +119,14 @@ if !isdirectory($USERPROFILE . '/.vim/undo-dir')
 endif
 
 set undodir=$USERPROFILE/.vim/undo-dir
+
+" Pfad für Undo-Dateien unter Linux/MacOS definieren
+" if !isdirectory($HOME . '/.vim/undo-dir')
+"    call mkdir($HOME . '/.vim/undo-dir', 'p', 0700)
+" endif
+
+" set undodir=$HOME/.vim/undo-dir
+
 set undofile
 
 " Empfohlene Werte für die Undo-Tiefe
