@@ -64,7 +64,7 @@ let g:airline_symbols.linenr = ''
 let g:airline_theme='murmur'
 " let g:airline_theme='one'
 
-" Font setzen
+" Font setzen `:set guifont=*` für Auswahl, `:set guifont?` für Abfrage
 set guifont=DejaVu_Sans_Mono_for_Powerline:h11
 
 " Fenstergrösse festlegen
