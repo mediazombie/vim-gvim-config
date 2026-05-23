@@ -13,12 +13,19 @@ My personal little Vim (gVim) config file. Till now the config file has only som
   <img alt="preview" src="./assets/preview.png" />
 </p>
 
-## Plugin manager
+## 🛠️ Requirements
+- [Vim >= 9.0](https://github.com/vim/vim)
+- [VimPlug](https://github.com/junegunn/vim-plug)
+- [Git](https://git-scm.com/)
+- [NerdFonts (Recommended source: DejaVu Sans Mono)](https://www.nerdfonts.com/)
+
+## 🧩 Plugin manager
 To install and activate the plugins in this vim script, I used the plugin manager `plug.vim` from [GitHub](https://github.com/junegunn/vim-plug) - for installation of this plugin manager, please see the [link](https://github.com/junegunn/vim-plug).
 > [!NOTE]
 > Do not forget to install the plugin manager `plug.vim` or the plugins and installation of them will not work!
 > To install the plugins, use the command `:PlugInstall` in Vim (Git **must** also be installed).
-## Install / Use
+
+## 💾 Install / Use
 To use the `.vimrc`, `_vimrc` file (named here as `vimrc`), it can be downloaded, cloned or copy-pasted. The standard folder for `_vimrc` (Windows) or `.vimrc` (Linux, MacOS) is as follows:
 
 | OS | Filepath |
@@ -70,5 +77,5 @@ if has("gui_running")
     let &columns=170
 endif
 ```
-## License
+## 📑 License
 This project is released under the terms of the MIT license. The MIT license allows users to use, copy, modify and distribute the source code of the project with certain restrictions and requirements. For more information, please refer to the license file included with this project or visit https://opensource.org/licenses/MIT.
