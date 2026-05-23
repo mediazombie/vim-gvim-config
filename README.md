@@ -1,5 +1,16 @@
 # Vim-gVim-config
-My little Vim (gVim) config file. I used this one for an online Vim course. So the config file has only some minor adjustments and only some plugins. The config file is optimized to work for gVim on Windows, but it also can be used on Linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
+<p align="center">
+ <img alt="banner_01" src="https://img.shields.io/github/last-commit/mediazombie/vim-gvim-config?color=%23AED6F1&style=for-the-badge" />
+ <img alt="banner_02" src="https://img.shields.io/github/license/mediazombie/vim-gvim-config?color=%23EAECEE&style=for-the-badge" />
+ <img alt="banner_03" src="https://img.shields.io/github/languages/top/mediazombie/vim-gvim-config?color=%23F9E79F&style=for-the-badge" />
+ <img alt="banner_04" src="https://img.shields.io/github/languages/count/mediazombie/vim-gvim-config?color=%23ABEBC6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img alt="preview" src="./assets/preview.png" />
+</p>
+
+My personal little Vim (gVim) config file. Till now the config file has only some minor adjustments and only some plugins. Because I'm new to Vim, the config will change from time to time. At the moment the config file is optimized to work for gVim on Windows, but it also can be used on Linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
 ## Plugin manager
 To install and activate the plugins in this vim script, I used the plugin manager `plug.vim` from [GitHub](https://github.com/junegunn/vim-plug) - for installation of this plugin manager, please see the [link](https://github.com/junegunn/vim-plug).
 > [!NOTE]
