@@ -1,10 +1,5 @@
 # Vim-gVim-config
-<<<<<<< HEAD
----
-My little Vim (gVim) config file. I used this one for an online Vim course. So the config file has only some minor adjustments and only some plugins. The config file is optimized to work for gVim on Windows, but it also can be used on Linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
-## Plugin manager
----
-=======
+
 <p align="center">
  <img alt="banner_01" src="https://img.shields.io/github/last-commit/mediazombie/vim-gvim-config?color=%23AED6F1&style=for-the-badge" />
  <img alt="banner_02" src="https://img.shields.io/github/license/mediazombie/vim-gvim-config?color=%23EAECEE&style=for-the-badge" />
@@ -12,22 +7,18 @@ My little Vim (gVim) config file. I used this one for an online Vim course. So t
  <img alt="banner_04" src="https://img.shields.io/github/languages/count/mediazombie/vim-gvim-config?color=%23ABEBC6&style=for-the-badge" />
 </p>
 
+My personal little Vim (gVim) config file. Till now the config file has only some minor adjustments and only some plugins. Because I'm new to Vim, the config will change from time to time. At the moment the config file is optimized to work for gVim on Windows, but it also can be used on Linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
+
 <p align="center">
   <img alt="preview" src="./assets/preview.png" />
 </p>
 
-My personal little Vim (gVim) config file. Till now the config file has only some minor adjustments and only some plugins. Because I'm new to Vim, the config will change from time to time. At the moment the config file is optimized to work for gVim on Windows, but it also can be used on Linux and MacOS with some little changes. The comments in the file are mostly in german language, because this is my native language. If there are some wishes, to change or add also english comments, feel free to ask.
 ## Plugin manager
->>>>>>> c5e75225fd6ec60bf4c2191c179a97191bd4560e
 To install and activate the plugins in this vim script, I used the plugin manager `plug.vim` from [GitHub](https://github.com/junegunn/vim-plug) - for installation of this plugin manager, please see the [link](https://github.com/junegunn/vim-plug).
 > [!NOTE]
 > Do not forget to install the plugin manager `plug.vim` or the plugins and installation of them will not work!
 > To install the plugins, use the command `:PlugInstall` in Vim (Git **must** also be installed).
-## Install / Use 
-<<<<<<< HEAD
----
-=======
->>>>>>> c5e75225fd6ec60bf4c2191c179a97191bd4560e
+## Install / Use
 To use the `.vimrc`, `_vimrc` file (named here as `vimrc`), it can be downloaded, cloned or copy-pasted. The standard folder for `_vimrc` (Windows) or `.vimrc` (Linux, MacOS) is as follows:
 
 | OS | Filepath |
@@ -80,8 +71,4 @@ if has("gui_running")
 endif
 ```
 ## License
-<<<<<<< HEAD
----
-=======
->>>>>>> c5e75225fd6ec60bf4c2191c179a97191bd4560e
-MIT
+This project is released under the terms of the MIT license. The MIT license allows users to use, copy, modify and distribute the source code of the project with certain restrictions and requirements. For more information, please refer to the license file included with this project or visit https://opensource.org/licenses/MIT.
