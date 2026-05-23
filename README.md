@@ -25,6 +25,9 @@ To install and activate the plugins in this vim script, I used the plugin manage
 > Do not forget to install the plugin manager `plug.vim` or the plugins and installation of them will not work!
 > To install the plugins, use the command `:PlugInstall` in Vim (Git **must** also be installed).
 
+### Find more awesome plugins
+If you are looking for some more awesome Vim plugins, take a look at [VimAwesome](https://vimawesome.com)!
+
 ## 💾 Install / Use
 To use the `.vimrc`, `_vimrc` file (named here as `vimrc`), it can be downloaded, cloned or copy-pasted. The standard folder for `_vimrc` (Windows) or `.vimrc` (Linux, MacOS) is as follows:
 
